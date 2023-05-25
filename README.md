@@ -9,7 +9,7 @@
 <br>
 
 ## Pic & Intro (자동차 사진, Intro)
-![Intro](./pics/Intro%20영상.gif) <br>
+![Intro](./pics/Intro.gif) <br>
 ![Pic1](./pics/1.jpg) <br>
 ![Pic2](./pics/2.jpg) <br>
 
