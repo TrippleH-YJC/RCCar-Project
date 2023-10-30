@@ -19,7 +19,7 @@
 ### Path
 [![경로 촬영 영상](http://img.youtube.com/vi/eMNNFYP314Y/0.jpg)](https://www.youtube.com/watch?v=eMNNFYP314Y) <br>
 
-## Firmware, Pakcages(Installation) Info
+## Firmware, Packages(Installation) Info
 - rpi firmware: 6.1.25-v8+
 - python: 3.9.2
 - opencv : 4.7.0
